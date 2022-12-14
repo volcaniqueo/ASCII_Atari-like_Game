@@ -3,4 +3,4 @@ This project was my 4th Homework for the course CMPE 150 (Introduction to Comput
 ## About the Project
 In this project, I have implemented ASCII Atari-like game on Python language. The detailed explanation is available on the description file.
 ## To Run the Code
- ```python3 CMPE150_HW4_volcaniqueo.py```
+```python3 CMPE150_HW4_volcaniqueo.py```
